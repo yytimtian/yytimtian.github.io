@@ -23,7 +23,7 @@ Before this, I completed:
 <em>
 <small>Which of the above curves are geodesics and/or elastica (minimizers of curvature energy) on this ellipsoid of revolution?</small>
 </em>
-</center>
+</center> 
 
 <br>
 Outside of research, I am on a lifelong quest to find a fruiting pawpaw tree (<i>Asimina triloba</i>) -- let me know if you have any leads! I am a big fan of plants in general (not just in theory). It's more of a coincidence that my research involves plants. Fungi are also cool; I'm similarly on the lookout for chanterelles.
