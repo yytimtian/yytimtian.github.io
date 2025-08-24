@@ -28,3 +28,8 @@ There has been a lot of interest in modelling this system, resulting in many com
 
 Left: our snazzy poster. Right: CMT simulation on a bunny, made by <a href="https://www.bandanchakrabortty.com/">Bandan Chakrabortty</a> and <a href="https://www.jic.ac.uk/people/richard-smith/">Richard Smith</a> with <a href="https://github.com/HiBandan/modelCMT">Cortical Sim 3D</a> during the workshop.
 </details>
+
+<details>
+<summary>Dungeons & Dragons: The halfling druid Youngflask (2019)</summary>
+There has been a lot of interest in playing this game, resulting in many incomplete campaigns. I co-played one such campaign, DMed by <a href="https://github.com/SpencerKi">Spencer Ki</a>.
+</details>
