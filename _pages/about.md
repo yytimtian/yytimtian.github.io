@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<img style="display: block; margin: 0 auto 5%;" src="/images/cubish.svg" width="170">
 <img style="float: right; margin-left: 5%; " src="/images/mt_anchoring.svg" width="65">
 I am a PhD candidate in mathematics, working under the supervision of Eric Cytrynbaum and Colin Macdonald.
 My research is in applied mathematics; mathematical biology. I am broadly interested in applying computational and mathematical tools in the modelling of biological systems. My current work involves mechanistic models of the plant cell cytoskeleton: the organization of plant cortical microtubules. [Click here for an intro to plant cortical mictrotubules (CMTs)](/research/). This project involves a fun combination of differential equations, geometry, stochastic processes, and scientific computing.
