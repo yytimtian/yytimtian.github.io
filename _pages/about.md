@@ -8,7 +8,7 @@ redirect_from:
 ---
 <img style="display: block; margin: 0 auto 5%;" src="/images/cubish.svg" width="170">
 <img style="float: right; margin-left: 5%; " src="/images/mt_anchoring.svg" width="65">
-I recently joined University of Utah as a postdoc in the department of mathematics. My research is in applied mathematics; mathematical biology. I am broadly interested in applying computational and mathematical tools in the modelling of biological systems.
+I recently joined the University of Utah as a postdoc in the department of mathematics. My research is in applied mathematics; mathematical biology. I am broadly interested in applying computational and mathematical tools in the modelling of biological systems.
 
 Prior, I completed my PhD in mathematics at The University of British Columbia (2022-26) under the supervision of Eric Cytrynbaum and Colin Macdonald.
 My PhD work involved mechanistic models of the plant cell cytoskeleton: the organization of plant cortical microtubules. [Click here for an intro to plant cortical mictrotubules (CMTs)](/research/). This project involved a fun combination of geometry, stochastic processes, scientific computing, and differential equations.
