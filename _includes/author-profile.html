@@ -33,21 +33,21 @@
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
-<li>
-  <a href="#" id="secure-email" onclick="openSecureEmail(); return false;">
-    <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i> Email
-  </a>
-</li>
+{% if author.email %}
+  <li>
+    <a href="#" id="secure-email" onclick="openSecureEmail(); return false;">
+      <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i> Email
+    </a>
+  </li>
 
-<script>
-  function openSecureEmail() {
-    // Split your email into two pieces to trick automated scraping bots
-    var user = "tim.tian";
-    var domain = "utah.edu";
-    window.location.href = "mailto:" + user + "@" + domain;
-  }
-</script>
-      
+  <script>
+    function openSecureEmail() {
+      var user = "tim.tian";
+      var domain = "utah.edu";
+      window.location.href = "mailto:" + user + "@" + domain;
+    }
+  </script>
+{% endif %}
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}
         <li><a href="{{ author.academia }}"><i class="ai ai-academia ai-fw icon-pad-right" aria-hidden="true"></i>Academia</a></li>
