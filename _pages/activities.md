@@ -9,15 +9,16 @@ author_profile: True
 Upcoming
 ======
 ---
-<details>
-<summary>Banff International Research Station: Modelling of Plant Microtubules (2026)</summary>
-<a href="https://www.birs.ca/events/2026/5-day-workshops/26w5658"> Our upcoming workshop</a>
-</details>
+Nothing yet!
 <br>
 
 Past
 ======
 ---
+<details>
+<summary>Banff International Research Station: Modelling of Plant Microtubules (2026)</summary>
+<a href="https://www.birs.ca/events/2026/5-day-workshops/26w5658"> Our BIRS workshop</a>
+</details>
 <details>
 <summary>Lorentz Workshop: Modelling plant cortical microtubules (2025)</summary>
 There has been a lot of interest in modelling this system, resulting in many computational frameworks. I co-organized <a href="https://www.lorentzcenter.nl/modelling-plant-cortical-microtubules.html">the first workshop on CMT models</a>, hosted by the Lorentz Center.

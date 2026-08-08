@@ -27,9 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : #"PhD Candidate in Mathematics"
   location         : #"Earth"
-  employer         : "The University of British Columbia"
+  employer         : "University of Utah"
   uri              : # URL
-  email            : "tim.tian@math.ubc.ca" 
+  email            : "" 
 
   # Academic websites
   academia         : # URL
